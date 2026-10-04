@@ -91,6 +91,7 @@ SELECT
     ) AS MoM_Application_Growth_Pct
 FROM MonthlySummary
 ORDER BY Month_No;
+```
 ```markdown
 ** Project Structure**
 ```text
