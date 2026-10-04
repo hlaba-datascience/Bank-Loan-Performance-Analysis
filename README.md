@@ -94,7 +94,6 @@ ORDER BY Month_No;
 ```
 ---
 ## Repository File Structure
-
 ```text
 ├── data/
 │   └── financial_loan.csv               # Raw loan dataset (38,576 rows)
