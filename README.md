@@ -92,16 +92,15 @@ SELECT
 FROM MonthlySummary
 ORDER BY Month_No;
 ```
+
 ---
-## Repository File Structure
+
+## 📂 Repository File Structure
+
 ```text
-├── data/
-│   └── financial_loan.csv               # Raw loan dataset (38,576 rows)
-├── sql/
-│   └── bank_loan_analysis.sql           # SQL audit, KPI, and MoM scripts
-├── dashboard/
-│   └── Bank_Loan_Dashboard.pbix        # Interactive Power BI report file
-├── screenshots/
-│   └── executive_summary.png           # Power BI dashboard preview
-└── README.md                            # Project documentation
+├── financial_loan.csv               # Raw loan dataset (38,576 rows)
+├── bank_loan_analysis.sql           # SQL audit, KPI, and MoM scripts
+├── Bank_Loan_Dashboard.pbix        # Interactive Power BI report file
+├── Dashboard_picture.png            # Power BI dashboard preview
+└── README.md                        # Project documentation
 ```
