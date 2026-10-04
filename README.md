@@ -92,8 +92,10 @@ SELECT
 FROM MonthlySummary
 ORDER BY Month_No;
 ```
-```markdown
+---
+## Repository File Structure
 
+```text
 ├── data/
 │   └── financial_loan.csv               # Raw loan dataset (38,576 rows)
 ├── sql/
