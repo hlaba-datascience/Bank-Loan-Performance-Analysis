@@ -2,6 +2,8 @@
 
 An end-to-end financial analytics project evaluating retail loan performance, repayment health, and default risk factors across **38,576 borrower applications** totaling **$435.76M in funded capital**. 
 
+![Bank Loan Performance Dashboard](Dashboard_picture.png)
+
 This project combines exploratory querying and data auditing in **SQL** with dynamic star-schema modeling, DAX time-intelligence, and interactive reporting in **Power BI**.
 
 ---
@@ -89,6 +91,7 @@ SELECT
     ) AS MoM_Application_Growth_Pct
 FROM MonthlySummary
 ORDER BY Month_No;
+
 
 ├── data/
 │   └── financial_loan.csv               # Raw loan dataset (38,576 rows)
