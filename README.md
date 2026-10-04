@@ -92,6 +92,7 @@ SELECT
 FROM MonthlySummary
 ORDER BY Month_No;
 
+
 ```text
 ├── data/
 │   └── financial_loan.csv               # Raw loan dataset (38,576 rows)
