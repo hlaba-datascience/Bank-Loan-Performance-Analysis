@@ -94,6 +94,7 @@ ORDER BY Month_No;
 ```
 ```markdown
 ** Project Structure**
+
 ```text
 ├── data/
 │   └── financial_loan.csv               # Raw loan dataset (38,576 rows)
