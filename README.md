@@ -105,3 +105,4 @@ ORDER BY Month_No;
 ├── screenshots/
 │   └── executive_summary.png           # Power BI dashboard preview
 └── README.md                            # Project documentation
+```
